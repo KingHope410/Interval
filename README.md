@@ -22,7 +22,9 @@ Look the back side with electronic components, there are four potentiometers. I 
 
 Two with “osc” characters is for frequence changing, two with “delay” characters is for adjusing sound release time. Besides On/Off switch in the left corner, there are two switches with “noise” characters. Turn on those swtiches will change the connect direction of the capacity in Schmidt Oscillator circuit. The basic connection is “capacity to GND”, the switch version is “capacity to touch pad”, which is the stripe in the front. With two hands operation, you can create more interesting sound.
 
-<div align=center><img src="images/back.png" width=50%> </div>
+<center class ='img'>
+<img title="img" src="Images/back.png" width="45%">
+</center>
 
 # Build Your Own
 
